@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "723466744635",
+    "firebase_url": "https://cabapp-cee09.firebaseio.com",
+    "project_id": "cabapp-cee09",
+    "storage_bucket": "cabapp-cee09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723466744635:android:24d3574331a2c752",
+        "android_client_info": {
+          "package_name": "beloded.alexey.com.cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723466744635-9eojnkojjdgjhi8i7vp7on2gmq5gsco0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "beloded.alexey.com.cab",
+            "certificate_hash": "cf191d0247d72f4513d5454dd7f2ca9b640515ce"
+          }
+        },
+        {
+          "client_id": "723466744635-gmnur1k283m7vgpsodj641v52817a068.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5abyIFrBbUgUhcG3KMfpS4siBTCv_Eg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723466744635-gmnur1k283m7vgpsodj641v52817a068.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
